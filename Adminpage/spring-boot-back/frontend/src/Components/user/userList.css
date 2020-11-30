@@ -1,0 +1,24 @@
+
+.classes.root{
+    box-shadow: 14px 14px 30px 3px rgba(0, 0, 0, 0.1);
+}
+.userlist{
+    height: 350px;
+    background-size: 130%;
+    border-radius: 14px;
+    color:white; 
+}
+
+.head__row>th{
+    margin:0 20px;
+}
+.body__rows>td{
+    margin:15px 20px;
+}
+body{
+    background-color: #E2F4F0;
+}
+.edit,
+.delete{
+    cursor: pointer;
+}
