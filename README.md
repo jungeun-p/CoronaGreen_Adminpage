@@ -1,5 +1,9 @@
 # CoronaGreen_Adminpage
- 
+
+### CoronaGreen Adminpage with React.js + Spring Boot
+📌https://github.com/duswn158/CoronaGreen
+
+
 - React.js와 SpringBoot를 활용하여 SPA를 통한 Adminpage를 제작. userEdit, userList, adminBoardList, donationList Component 들을 만들어 효율적으로 처리하고, 변경된 데이터들은 OracleDB와 연동되어 관리가 가능하도록 구현.
 - 개발환경
 
